@@ -107,7 +107,7 @@ As mentioned earlier, the ring buffer in your `GuitarString` class should be imp
 
 To generate random real numbers, you can either call the `Math.random( )` method or you can construct a `Random` object and call its `nextDouble( )` method.  Both methods return a random real value _n_ such that _0 <= n < 1_.
 
-You are given debugging and testing programs for `Guitar221`. (See [MP1 Debug](https://github.com/CPEN-221/mp1-fall2015-debug) and [MP1 Play](https://github.com/CPEN-221/mp1-fall2015-debug).)  You can test your implementation using these programs. You are also provided with some sample inputs to help in this process.
+You are given debugging and testing programs for `Guitar221`. (See [MP1 Debug](https://github.com/CPEN-221/mp1-fall2015-debug) and [MP1 Play](https://github.com/CPEN-221/mp1-fall2015-play).)  You can test your implementation using these programs. You are also provided with some sample inputs to help in this process.
 
 ### Submitting Your Work
 
